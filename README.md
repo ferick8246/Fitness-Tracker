@@ -21,3 +21,9 @@ Click [here!](https://fitness-trakerz.herokuapp.com/exercise?id=60e7bfeea7d27900
 
 Used for inputting workout stats and transforming it into easy-to-read data for tracking progression.
 
+## Take A Look
+
+![This is the landing page for the tracker.](./assets/fitness.PNG)
+
+
+![This is the dashboard with workout data](./assets/fitness2.PNG)
