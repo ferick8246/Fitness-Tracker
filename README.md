@@ -31,5 +31,5 @@ Used for inputting workout stats and transforming it into easy-to-read data for 
 
 For more content, check out my [GitHub](https://github.com/ferick8246)!
 
-Any questions regarding this project can be sent to ZacharyBinxGit@gmail.com and I will respond as soon as reasonably possible.
+Any questions regarding this project can be sent to ferick8246@gmail.com and I will respond as soon as reasonably possible.
 
