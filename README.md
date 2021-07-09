@@ -22,10 +22,10 @@ Used for inputting workout stats and transforming it into easy-to-read data for 
 
 ## Take A Look
 
-![This is the landing page for the tracker.](./assets/fitness.PNG)
+![This is the landing page for the tracker.](https://github.com/ferick8246/Fitness-Tracker/blob/76ba5d58ba839330be11de634a06d2216976cd71/assets/Fitness.PNG)
 
 
-![This is the dashboard with workout data](./assets/fitness2.PNG)
+![This is the dashboard with workout data](https://github.com/ferick8246/Fitness-Tracker/blob/76ba5d58ba839330be11de634a06d2216976cd71/assets/Fitness2.PNG)
 
 ## Questions
 
