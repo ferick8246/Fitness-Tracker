@@ -17,3 +17,7 @@ Easily add workouts and track your progress! Enter the details of the workout an
 
 Click [here!](https://fitness-trakerz.herokuapp.com/exercise?id=60e7bfeea7d2790015381b0d)
 
+## Usage
+
+Used for inputting workout stats and transforming it into easy-to-read data for tracking progression.
+
